@@ -1,0 +1,38 @@
+[
+  {
+    "id": "941457bf-e32c-4249-a08f-e2b5ac10d29c",
+    "username": "ashley",
+    "password_hash": "$2b$12$UdUEVWUqx7529NiM.SNiz.flUm2yvAodHcyDUHZpSVc.OnjEvv3lW",
+    "created_at": "2025-11-04T06:38:46.327479300Z"
+  },
+  {
+    "id": "92df254a-0ad3-4ab6-8c06-f927bc0d2279",
+    "username": "ashleyf",
+    "password_hash": "$2b$12$6TZIlhyP.ecc9lmEHIBb3OhPK1pFrGQbCBopz3ZBq8zHUcTfjvSKy",
+    "created_at": "2025-11-04T06:49:11.296661Z"
+  },
+  {
+    "id": "32e38631-9311-48d3-a8d2-bc417005e9f0",
+    "username": "someStudent",
+    "password_hash": "$2b$12$UwUUrRKvf3566WXdF.v4Pey8tbSb/.zp0LPWyt1sfN6I6lyeSL0A6",
+    "created_at": "2025-11-04T07:02:58.144304400Z"
+  },
+  {
+    "id": "65469f7f-bfe2-4116-89eb-e33c73a02444",
+    "username": "testsmith",
+    "password_hash": "$2b$12$Ri5JoO0crcZmmUQvM5BRq.aLBJHIBcqoEHAKNutFhBsyZ5FU70orq",
+    "created_at": "2025-11-18T03:40:40.261813Z"
+  },
+  {
+    "id": "5866f652-8f6a-42cb-a757-a61b1fb07b0b",
+    "username": "testuser",
+    "password_hash": "$2b$12$OuUzGm.XBR5KldFFm1WwZO/hwXmOAS492VwI1lR102R7y.CDn6O9y",
+    "created_at": "2025-11-18T03:54:52.657281800Z"
+  },
+  {
+    "id": "91eff593-d282-4ecb-8bf0-5b9ada006e00",
+    "username": "johnsmith",
+    "password_hash": "$2b$12$Aa1DaJPny5KXGJAP5NB5NuY/IhHh8eMnYb2pxJoPumoCgedpVendq",
+    "created_at": "2025-11-18T04:06:01.357915900Z"
+  }
+]

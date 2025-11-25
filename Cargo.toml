@@ -1,0 +1,30 @@
+[package]
+name = "reminder-service"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "server"
+path = "src/main.rs"
+
+[[bin]]
+name = "cli"
+path = "src/bin/cli.rs"
+
+[[bin]]
+name = "quiz"
+path = "src/bin/quiz.rs"
+
+[dependencies]
+axum = "0.7"
+tokio = { version = "1", features = ["full"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+chrono = { version = "0.4", features = ["serde"] }
+clap = { version = "4", features = ["derive"] }
+reqwest = { version = "0.12", features = ["json", "rustls-tls"], default-features = false }
+anyhow = "1"
+prettytable-rs = "0.10"
+tower-http = { version = "0.5", features = ["cors"] }
+uuid = { version = "1", features = ["v4", "serde"] }
+bcrypt = "0.15"

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "8b21bf64-e105-46ec-ad7b-51fa52b26726",
+    "user_id": "941457bf-e32c-4249-a08f-e2b5ac10d29c",
+    "filename": "biology.txt",
+    "content": "@\"\r\nCell Biology and Life Processes\r\nCell Structure:\r\n- Cell Membrane: Controls what enters and exits the cell\r\n- Nucleus: Contains genetic material (DNA)\r\n- Mitochondria: Powerhouse of the cell, produces ATP energy\r\n- Ribosomes: Protein synthesis\r\n- Chloroplasts: Found in plant cells, performs photosynthesis\r\nPhotosynthesis:\r\n- Process by which plants convert light energy into chemical energy\r\n- Takes place in chloroplasts\r\n- Equation: 6CO2 + 6H2O + light → C6H12O6 + 6O2\r\n- Requires: sunlight, water, and carbon dioxide\r\n- Produces: glucose and oxygen\r\nCellular Respiration:\r\n- Process that releases energy from glucose\r\n- Occurs in mitochondria\r\n- Equation: C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP\r\n- Opposite of photosynthesis\r\nDNA Structure:\r\n- Double helix shape\r\n- Made of nucleotides (A, T, G, C)\r\n- A pairs with T, G pairs with C\r\n- Contains genetic instructions for all living organisms\r\nCell Division:\r\n- Mitosis: Produces two identical daughter cells\r\n- Meiosis: Produces four sex cells with half the chromosomes\r\n- Used for growth, repair, and reproduction\r\n\"@ | Out-File -Encoding UTF8 biology.txt",
+    "uploaded_at": "2025-11-04T06:42:00.586869Z",
+    "tags": []
+  },
+  {
+    "id": "20067f50-4b8f-42f7-b719-fdd74651fe79",
+    "user_id": "92df254a-0ad3-4ab6-8c06-f927bc0d2279",
+    "filename": "biology.txt",
+    "content": "@\"\r\nCell Biology and Life Processes\r\nCell Structure:\r\n- Cell Membrane: Controls what enters and exits the cell\r\n- Nucleus: Contains genetic material (DNA)\r\n- Mitochondria: Powerhouse of the cell, produces ATP energy\r\n- Ribosomes: Protein synthesis\r\n- Chloroplasts: Found in plant cells, performs photosynthesis\r\nPhotosynthesis:\r\n- Process by which plants convert light energy into chemical energy\r\n- Takes place in chloroplasts\r\n- Equation: 6CO2 + 6H2O + light → C6H12O6 + 6O2\r\n- Requires: sunlight, water, and carbon dioxide\r\n- Produces: glucose and oxygen\r\nCellular Respiration:\r\n- Process that releases energy from glucose\r\n- Occurs in mitochondria\r\n- Equation: C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP\r\n- Opposite of photosynthesis\r\nDNA Structure:\r\n- Double helix shape\r\n- Made of nucleotides (A, T, G, C)\r\n- A pairs with T, G pairs with C\r\n- Contains genetic instructions for all living organisms\r\nCell Division:\r\n- Mitosis: Produces two identical daughter cells\r\n- Meiosis: Produces four sex cells with half the chromosomes\r\n- Used for growth, repair, and reproduction\r\n\"@ | Out-File -Encoding UTF8 biology.txt",
+    "uploaded_at": "2025-11-04T06:50:46.896485800Z",
+    "tags": []
+  },
+  {
+    "id": "48a85ed4-5f35-4134-b905-043f6a8ec03f",
+    "user_id": "32e38631-9311-48d3-a8d2-bc417005e9f0",
+    "filename": "biology.txt",
+    "content": "@\"\r\nCell Biology and Life Processes\r\nCell Structure:\r\n- Cell Membrane: Controls what enters and exits the cell\r\n- Nucleus: Contains genetic material (DNA)\r\n- Mitochondria: Powerhouse of the cell, produces ATP energy\r\n- Ribosomes: Protein synthesis\r\n- Chloroplasts: Found in plant cells, performs photosynthesis\r\nPhotosynthesis:\r\n- Process by which plants convert light energy into chemical energy\r\n- Takes place in chloroplasts\r\n- Equation: 6CO2 + 6H2O + light → C6H12O6 + 6O2\r\n- Requires: sunlight, water, and carbon dioxide\r\n- Produces: glucose and oxygen\r\nCellular Respiration:\r\n- Process that releases energy from glucose\r\n- Occurs in mitochondria\r\n- Equation: C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP\r\n- Opposite of photosynthesis\r\nDNA Structure:\r\n- Double helix shape\r\n- Made of nucleotides (A, T, G, C)\r\n- A pairs with T, G pairs with C\r\n- Contains genetic instructions for all living organisms\r\nCell Division:\r\n- Mitosis: Produces two identical daughter cells\r\n- Meiosis: Produces four sex cells with half the chromosomes\r\n- Used for growth, repair, and reproduction\r\n\"@ | Out-File -Encoding UTF8 biology.txt",
+    "uploaded_at": "2025-11-04T07:04:58.633231400Z",
+    "tags": []
+  },
+  {
+    "id": "857b80d4-e22f-48f4-8c8d-a4c0f40d09d8",
+    "user_id": "65469f7f-bfe2-4116-89eb-e33c73a02444",
+    "filename": "biology.txt",
+    "content": "@\"\r\nCell Biology and Life Processes\r\nCell Structure:\r\n- Cell Membrane: Controls what enters and exits the cell\r\n- Nucleus: Contains genetic material (DNA)\r\n- Mitochondria: Powerhouse of the cell, produces ATP energy\r\n- Ribosomes: Protein synthesis\r\n- Chloroplasts: Found in plant cells, performs photosynthesis\r\nPhotosynthesis:\r\n- Process by which plants convert light energy into chemical energy\r\n- Takes place in chloroplasts\r\n- Equation: 6CO2 + 6H2O + light → C6H12O6 + 6O2\r\n- Requires: sunlight, water, and carbon dioxide\r\n- Produces: glucose and oxygen\r\nCellular Respiration:\r\n- Process that releases energy from glucose\r\n- Occurs in mitochondria\r\n- Equation: C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP\r\n- Opposite of photosynthesis\r\nDNA Structure:\r\n- Double helix shape\r\n- Made of nucleotides (A, T, G, C)\r\n- A pairs with T, G pairs with C\r\n- Contains genetic instructions for all living organisms\r\nCell Division:\r\n- Mitosis: Produces two identical daughter cells\r\n- Meiosis: Produces four sex cells with half the chromosomes\r\n- Used for growth, repair, and reproduction\r\n\"@ | Out-File -Encoding UTF8 biology.txt",
+    "uploaded_at": "2025-11-18T03:48:05.107962800Z",
+    "tags": []
+  },
+  {
+    "id": "d0ec47c8-c6db-4e06-a087-daf97ac3dcfb",
+    "user_id": "65469f7f-bfe2-4116-89eb-e33c73a02444",
+    "filename": "biology.txt",
+    "content": "@\"\r\nCell Biology and Life Processes\r\nCell Structure:\r\n- Cell Membrane: Controls what enters and exits the cell\r\n- Nucleus: Contains genetic material (DNA)\r\n- Mitochondria: Powerhouse of the cell, produces ATP energy\r\n- Ribosomes: Protein synthesis\r\n- Chloroplasts: Found in plant cells, performs photosynthesis\r\nPhotosynthesis:\r\n- Process by which plants convert light energy into chemical energy\r\n- Takes place in chloroplasts\r\n- Equation: 6CO2 + 6H2O + light → C6H12O6 + 6O2\r\n- Requires: sunlight, water, and carbon dioxide\r\n- Produces: glucose and oxygen\r\nCellular Respiration:\r\n- Process that releases energy from glucose\r\n- Occurs in mitochondria\r\n- Equation: C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP\r\n- Opposite of photosynthesis\r\nDNA Structure:\r\n- Double helix shape\r\n- Made of nucleotides (A, T, G, C)\r\n- A pairs with T, G pairs with C\r\n- Contains genetic instructions for all living organisms\r\nCell Division:\r\n- Mitosis: Produces two identical daughter cells\r\n- Meiosis: Produces four sex cells with half the chromosomes\r\n- Used for growth, repair, and reproduction\r\n\"@ | Out-File -Encoding UTF8 biology.txt",
+    "uploaded_at": "2025-11-18T03:55:58.258104300Z",
+    "tags": []
+  },
+  {
+    "id": "454d2e5f-414d-4a98-8569-ff6e0045fa8a",
+    "user_id": "91eff593-d282-4ecb-8bf0-5b9ada006e00",
+    "filename": "biology.txt",
+    "content": "@\"\r\nCell Biology and Life Processes\r\nCell Structure:\r\n- Cell Membrane: Controls what enters and exits the cell\r\n- Nucleus: Contains genetic material (DNA)\r\n- Mitochondria: Powerhouse of the cell, produces ATP energy\r\n- Ribosomes: Protein synthesis\r\n- Chloroplasts: Found in plant cells, performs photosynthesis\r\nPhotosynthesis:\r\n- Process by which plants convert light energy into chemical energy\r\n- Takes place in chloroplasts\r\n- Equation: 6CO2 + 6H2O + light → C6H12O6 + 6O2\r\n- Requires: sunlight, water, and carbon dioxide\r\n- Produces: glucose and oxygen\r\nCellular Respiration:\r\n- Process that releases energy from glucose\r\n- Occurs in mitochondria\r\n- Equation: C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP\r\n- Opposite of photosynthesis\r\nDNA Structure:\r\n- Double helix shape\r\n- Made of nucleotides (A, T, G, C)\r\n- A pairs with T, G pairs with C\r\n- Contains genetic instructions for all living organisms\r\nCell Division:\r\n- Mitosis: Produces two identical daughter cells\r\n- Meiosis: Produces four sex cells with half the chromosomes\r\n- Used for growth, repair, and reproduction\r\n\"@ | Out-File -Encoding UTF8 biology.txt",
+    "uploaded_at": "2025-11-18T04:07:26.468747Z",
+    "tags": [
+      "biology"
+    ]
+  },
+  {
+    "id": "7ac99b7a-ee38-4511-99d1-e42fdfae5a3a",
+    "user_id": "91eff593-d282-4ecb-8bf0-5b9ada006e00",
+    "filename": "biology.txt",
+    "content": "@\"\r\nCell Biology and Life Processes\r\nCell Structure:\r\n- Cell Membrane: Controls what enters and exits the cell\r\n- Nucleus: Contains genetic material (DNA)\r\n- Mitochondria: Powerhouse of the cell, produces ATP energy\r\n- Ribosomes: Protein synthesis\r\n- Chloroplasts: Found in plant cells, performs photosynthesis\r\nPhotosynthesis:\r\n- Process by which plants convert light energy into chemical energy\r\n- Takes place in chloroplasts\r\n- Equation: 6CO2 + 6H2O + light → C6H12O6 + 6O2\r\n- Requires: sunlight, water, and carbon dioxide\r\n- Produces: glucose and oxygen\r\nCellular Respiration:\r\n- Process that releases energy from glucose\r\n- Occurs in mitochondria\r\n- Equation: C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP\r\n- Opposite of photosynthesis\r\nDNA Structure:\r\n- Double helix shape\r\n- Made of nucleotides (A, T, G, C)\r\n- A pairs with T, G pairs with C\r\n- Contains genetic instructions for all living organisms\r\nCell Division:\r\n- Mitosis: Produces two identical daughter cells\r\n- Meiosis: Produces four sex cells with half the chromosomes\r\n- Used for growth, repair, and reproduction\r\n\"@ | Out-File -Encoding UTF8 biology.txt",
+    "uploaded_at": "2025-11-18T04:19:13.637175200Z",
+    "tags": []
+  },
+  {
+    "id": "955817e3-f994-4b82-9580-8203f1531199",
+    "user_id": "91eff593-d282-4ecb-8bf0-5b9ada006e00",
+    "filename": "biology.txt",
+    "content": "@\"\r\nCell Biology and Life Processes\r\nCell Structure:\r\n- Cell Membrane: Controls what enters and exits the cell\r\n- Nucleus: Contains genetic material (DNA)\r\n- Mitochondria: Powerhouse of the cell, produces ATP energy\r\n- Ribosomes: Protein synthesis\r\n- Chloroplasts: Found in plant cells, performs photosynthesis\r\nPhotosynthesis:\r\n- Process by which plants convert light energy into chemical energy\r\n- Takes place in chloroplasts\r\n- Equation: 6CO2 + 6H2O + light → C6H12O6 + 6O2\r\n- Requires: sunlight, water, and carbon dioxide\r\n- Produces: glucose and oxygen\r\nCellular Respiration:\r\n- Process that releases energy from glucose\r\n- Occurs in mitochondria\r\n- Equation: C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP\r\n- Opposite of photosynthesis\r\nDNA Structure:\r\n- Double helix shape\r\n- Made of nucleotides (A, T, G, C)\r\n- A pairs with T, G pairs with C\r\n- Contains genetic instructions for all living organisms\r\nCell Division:\r\n- Mitosis: Produces two identical daughter cells\r\n- Meiosis: Produces four sex cells with half the chromosomes\r\n- Used for growth, repair, and reproduction\r\n\"@ | Out-File -Encoding UTF8 biology.txt",
+    "uploaded_at": "2025-11-18T04:22:08.696714900Z",
+    "tags": []
+  },
+  {
+    "id": "35a6a321-fa2e-4da9-99a1-b15f40be9e17",
+    "user_id": "91eff593-d282-4ecb-8bf0-5b9ada006e00",
+    "filename": "biology.txt",
+    "content": "@\"\r\nCell Biology and Life Processes\r\nCell Structure:\r\n- Cell Membrane: Controls what enters and exits the cell\r\n- Nucleus: Contains genetic material (DNA)\r\n- Mitochondria: Powerhouse of the cell, produces ATP energy\r\n- Ribosomes: Protein synthesis\r\n- Chloroplasts: Found in plant cells, performs photosynthesis\r\nPhotosynthesis:\r\n- Process by which plants convert light energy into chemical energy\r\n- Takes place in chloroplasts\r\n- Equation: 6CO2 + 6H2O + light → C6H12O6 + 6O2\r\n- Requires: sunlight, water, and carbon dioxide\r\n- Produces: glucose and oxygen\r\nCellular Respiration:\r\n- Process that releases energy from glucose\r\n- Occurs in mitochondria\r\n- Equation: C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP\r\n- Opposite of photosynthesis\r\nDNA Structure:\r\n- Double helix shape\r\n- Made of nucleotides (A, T, G, C)\r\n- A pairs with T, G pairs with C\r\n- Contains genetic instructions for all living organisms\r\nCell Division:\r\n- Mitosis: Produces two identical daughter cells\r\n- Meiosis: Produces four sex cells with half the chromosomes\r\n- Used for growth, repair, and reproduction\r\n\"@ | Out-File -Encoding UTF8 biology.txt",
+    "uploaded_at": "2025-11-18T04:25:47.554610200Z",
+    "tags": [
+      "important"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "7ca3f79a-716f-47d7-9878-2399a2d846dd",
+    "message": "📚 Study Biology\n📝 Review chapter 5",
+    "due_time": "2025-11-20T14:00:00Z",
+    "username": "johnsmith",
+    "sent": false,
+    "created_at": "2025-11-18T04:28:32.272251Z",
+    "recurrence": "daily"
+  }
+]

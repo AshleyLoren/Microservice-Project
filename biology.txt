@@ -1,0 +1,29 @@
+@"
+Cell Biology and Life Processes
+Cell Structure:
+- Cell Membrane: Controls what enters and exits the cell
+- Nucleus: Contains genetic material (DNA)
+- Mitochondria: Powerhouse of the cell, produces ATP energy
+- Ribosomes: Protein synthesis
+- Chloroplasts: Found in plant cells, performs photosynthesis
+Photosynthesis:
+- Process by which plants convert light energy into chemical energy
+- Takes place in chloroplasts
+- Equation: 6CO2 + 6H2O + light → C6H12O6 + 6O2
+- Requires: sunlight, water, and carbon dioxide
+- Produces: glucose and oxygen
+Cellular Respiration:
+- Process that releases energy from glucose
+- Occurs in mitochondria
+- Equation: C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP
+- Opposite of photosynthesis
+DNA Structure:
+- Double helix shape
+- Made of nucleotides (A, T, G, C)
+- A pairs with T, G pairs with C
+- Contains genetic instructions for all living organisms
+Cell Division:
+- Mitosis: Produces two identical daughter cells
+- Meiosis: Produces four sex cells with half the chromosomes
+- Used for growth, repair, and reproduction
+"@ | Out-File -Encoding UTF8 biology.txt
